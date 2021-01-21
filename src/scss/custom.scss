@@ -5,13 +5,22 @@
   background-color: black !important;
 }
 
+.nav-item:hover {
+  background-color: grey;
+}
+
 .nav-link {
   color: white;
+
+  &:hover {
+    color: white;
+  }
 }
 
 .row {
   margin-right: 0 !important;
   margin-left: 0 !important;
+  background-color: #f1f1f1;
 }
 
 // Cambios SCSS normales

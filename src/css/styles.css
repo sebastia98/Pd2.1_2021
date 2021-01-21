@@ -9932,13 +9932,21 @@ h3 {
   background-color: black !important;
 }
 
+.nav-item:hover {
+  background-color: grey;
+}
+
 .nav-link {
+  color: white;
+}
+.nav-link:hover {
   color: white;
 }
 
 .row {
   margin-right: 0 !important;
   margin-left: 0 !important;
+  background-color: #f1f1f1;
 }
 
 .info_banda {
