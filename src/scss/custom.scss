@@ -1,0 +1,42 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// Cambios de Bootstrap (Theming)
+.bg-dark {
+  background-color: black !important;
+}
+
+.nav-link {
+  color: white;
+}
+
+// Cambios SCSS normales
+.info_banda {
+  max-width: 560px;
+  margin: auto;
+}
+
+h2 {
+  letter-spacing: 5px;
+}
+
+p {
+  font-size: 14px;
+}
+
+#stickyFooter {
+  background-color: black;
+
+  .redes {
+    font-size: 25px;
+  }
+}
+
+.container {
+  p {
+    color: white;
+  }
+
+  u {
+    color: white;
+  }
+}
