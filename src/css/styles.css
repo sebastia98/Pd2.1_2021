@@ -9936,6 +9936,11 @@ h3 {
   color: white;
 }
 
+.row {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+
 .info_banda {
   max-width: 560px;
   margin: auto;
