@@ -9949,6 +9949,10 @@ h3 {
   background-color: #f1f1f1;
 }
 
+.card-body p {
+  font-size: 17px;
+}
+
 .info_banda {
   max-width: 560px;
   margin: auto;
