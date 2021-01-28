@@ -1,6 +1,8 @@
 ## Enlace a la presentación de Bootstrap
 https://docs.google.com/presentation/d/1Pd177D93D7LYry0PRa_4oCfVsH6_zhbggCAWojan37w/edit?usp=sharing
 
+## Enlace al deployment de la web con Netlify
+https://tender-kilby-73f446.netlify.app/
 ## Bootstrap
 
 _**Bootstrap** es un framework CSS de código abierto que favorece el desarrollo web de un modo más sencillo y rápido. Incluye plantillas de diseño basadas en HTML y CSS con la que es posible modificar tipografías, formularios, botones, tablas, navegaciones, menús desplegables, etc. También existe la posibilidad de utilizar extensiones de Javascript adicionales._
